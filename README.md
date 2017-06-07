@@ -21,7 +21,7 @@ Feel free to open an issue if there are problems, or if you have something to as
 
 - Colorschemes are configured via [wal](https://github.com/dylanaraps/wal).
 
-- There are two versions of my bspwmrc and polybar: one is for my main laptop + external monitor workstation and the other is for my second laptop (aka the laptop I test things with haha). If you have more than two... well, do `xrandr -q` and modify the bspwmrc file.
+- There are two versions of my bspwmrc: one is for my main laptop + external monitor workstation and the other is for my second laptop (aka the laptop I test things with haha). If you have more than two... well, do `xrandr -q` and modify the bspwmrc file.
 
 - Remember to uncomment anything you wanted to try and use. All of my modifications are commented to avoid messing up your stuff in case something happens.
 
