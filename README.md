@@ -37,5 +37,11 @@ Feel free to open an issue if there are problems, or if you have something to as
 [Arc Theme](https://github.com/horst3180/Arc-theme)
 
 ----
+### Screenshots
+
+- #### Clean
+http://i.imgur.com/QzmGM6J.png
+
+----
 #### NOTE: Others will be added as I see fit. You may or may not use them. 
 Some will be uploaded per request (for example, wallpapers, scripts, etc.)
