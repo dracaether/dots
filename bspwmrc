@@ -46,4 +46,4 @@ bspc rule -a Screenkey manage=off
 compton --config ~/compton.conf -b
 #panel &
 
-#polybar main &
+#polybar dracaether &
