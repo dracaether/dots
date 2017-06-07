@@ -40,7 +40,13 @@ Feel free to open an issue if there are problems, or if you have something to as
 ### Screenshots
 
 - #### Clean
-http://i.imgur.com/QzmGM6J.png
+<a href="http://imgur.com/QzmGM6J"><img src="http://i.imgur.com/QzmGM6J.png" title="source: imgur.com" /></a>
+
+- #### Busy
+<a href="http://imgur.com/RjZZAzw"><img src="http://i.imgur.com/RjZZAzw.png" title="source: imgur.com" /></a>
+
+- #### Chromium
+<a href="http://imgur.com/WagANHq"><img src="http://i.imgur.com/WagANHq.png" title="source: imgur.com" /></a>
 
 ----
 #### NOTE: Others will be added as I see fit. You may or may not use them. 
