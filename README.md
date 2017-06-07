@@ -1,5 +1,5 @@
 # dots
-repository for my dots on my Arch Linux set up. [underconstruction]
+repository for my dots on my Arch Linux set up.
 
 ----
 ### Introduction
