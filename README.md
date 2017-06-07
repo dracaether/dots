@@ -48,6 +48,9 @@ Feel free to open an issue if there are problems, or if you have something to as
 - #### Chromium
 <a href="http://imgur.com/WagANHq"><img src="http://i.imgur.com/WagANHq.png" title="source: imgur.com" /></a>
 
+- #### Wallpaper
+<a href="http://imgur.com/YM4bd8r"><img src="http://i.imgur.com/YM4bd8r.jpg" title="source: imgur.com" /></a>
+
 ----
 #### NOTE: Others will be added as I see fit. You may or may not use them. 
 Some will be uploaded per request (for example, wallpapers, scripts, etc.)
