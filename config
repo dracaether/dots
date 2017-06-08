@@ -132,7 +132,7 @@ interface = wlp3s0
 interval = 3.0
 udspeed-minwidth = 3
 
-format-connected <label-connected>
+format-connected = <label-connected>
 format-connected-background = ${colors.color3}
 format-connected-font = 3
 format-connected-padding = 1
